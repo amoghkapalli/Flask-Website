@@ -15,6 +15,6 @@ aws_secret_access_key = ''
 
   ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented features:
 
 <img src='https://github.com/amoghkapalli/Flask-Website/blob/main/Kapture%202023-03-10%20at%2021.51.00.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
